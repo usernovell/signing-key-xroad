@@ -1,0 +1,26 @@
+Content-Type: multipart/related; charset=UTF-8; boundary=4SNJ9pYR0gkTskthdzLAjqfIUpU=
+
+--4SNJ9pYR0gkTskthdzLAjqfIUpU=
+Content-Type: multipart/mixed; charset=UTF-8; boundary=xL+V0ZO04lkl1hkDg5qfC78gFIY=
+
+--xL+V0ZO04lkl1hkDg5qfC78gFIY=
+Expire-date: 2022-10-10T18:16:01Z
+Version: 2
+
+--xL+V0ZO04lkl1hkDg5qfC78gFIY=
+Content-type: application/octet-stream
+Content-transfer-encoding: base64
+Content-identifier: SHARED-PARAMETERS; instance='FI-CENTRAL'
+Content-location: /V2/20220910180601786079000/shared-params.xml
+Hash-algorithm-id: http://www.w3.org/2001/04/xmlenc#sha512
+
+k1qy4JvKFzJsEO0nMm80tlTiPd2vR6b6VuyD0N5VeVIscl58N3WoGbm4UjcUJNjoeUx+NSNZTQcowTi/oNSLrA==
+--xL+V0ZO04lkl1hkDg5qfC78gFIY=
+--4SNJ9pYR0gkTskthdzLAjqfIUpU=
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Signature-Algorithm-Id: http://www.w3.org/2001/04/xmldsig-more#rsa-sha512
+Verification-certificate-hash: TRmS8lggYvDBX2nXGMq19Cz6uP7vOJmBxMDqG2ZNlyBW86d20QGwkWHYYwODpxeWQfh38bs5Gj4Nn+a5bB/aNA==; hash-algorithm-id="http://www.w3.org/2001/04/xmlenc#sha512"
+
+gRMdIVUh6xjDxJpGMszoMfDAhd8e2onyVi1QqlOkQQOIobr1JM13yxxNZpqXOtRKRPjqS2OUUKnGTF8GR3eni8Ua2st6jzeB0bToIvHXPNmTei+K4+axoQpyOBc7kxkgCpQv4+p/XoIARjioJF/Vgit2lfTdVSPvzQUwIM4JoQqZ/ZDDR9u+jXdcwCsObVeNFL6cLimOZLyigkrWrNIJYOnDFBBZ74yGHfQ4MDTdr3/FBfJx2kSjZRv6PRKdRNYu1Ryv5pncro2v+GA/BdJk8K2Rc3HMa9jFgYG6FrmF/jUOCupWK8ErWs1WwY3Q+TAYxWwgpDFaLSaRuJH76Dsq8A==
+--4SNJ9pYR0gkTskthdzLAjqfIUpU=--
